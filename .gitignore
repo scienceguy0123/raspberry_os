@@ -1,0 +1,14 @@
+# Ignore object files
+*.o
+
+# Ignore ELF files
+*.elf
+
+# Ignore image files
+*.img
+
+*.map
+
+*.txt
+
+
