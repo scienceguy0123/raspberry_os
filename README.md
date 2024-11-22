@@ -1,1 +1,1 @@
-Followed this(https://www.youtube.com/watch?v=X_01ytMQzDw&list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8&index=16) Youtube channel's tutorial and this repository(https://github.com/rockytriton/LLD)  to practice embedded programming
+Followed [this](https://www.youtube.com/watch?v=X_01ytMQzDw&list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8&index=16) Youtube channel's tutorial and this [repository](https://github.com/rockytriton/LLD)  to practice embedded programming
